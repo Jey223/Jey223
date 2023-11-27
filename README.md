@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Julie
-- 👀 I’m interested in any intern role as a front end developer
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on building and joining communities to learn more
+- 👀 I’m interested in making impact
+- 🌱 I’m currently building Projects
+- 💞️ I’m looking to collaborate on building projects around ReactJS, TailwindCss and joining communities.
 - 📫 How to reach me "julieudoh7@gmail.com"
 
 <!---
